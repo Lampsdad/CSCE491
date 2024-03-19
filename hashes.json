@@ -1,0 +1,684 @@
+{
+    "hashes": [
+        {
+            "file": "ModbusDataset/attack/compromised-ied/central-agent/central-agent-network-captures/vethffb308b-0.pcap",
+            "hash": "T1B128BF832B04C10CC96B8FFE99BE92FEC4759ED44555A29B3BC91C8B16A40E11B4F7D8"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/central-agent/central-agent-network-captures/vethffb308b-1.pcap",
+            "hash": "T11F28C0836B04C10CC96B8FFE99BE92FEC4759ED40554A29B3BC91D8B16A40E11B4F7D8"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/central-agent/central-agent-network-captures/vethffb308b-2.pcap",
+            "hash": "T12D28C0832B04C10CC96B8FFE99BE92FEC4759ED44555A29B3BD90D8B16A40E11B4F7C8"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/central-agent/central-agent-network-captures/vethffb308b-3.pcap",
+            "hash": "T16228CF832B04C10CD96B8FFE99BE92FEC4759ED44554A29B3BC91C8B16A40E11B4F7D8"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/central-agent/central-agent-network-captures/vethffb308b-4.pcap",
+            "hash": "T1A708B0832B04C10CC96B8FFED9BE92FEC4659ED44555A29B3BC91C8B16A40E11B4F7D8"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1a/ied1a-network-captures/veth3614724-0.pcap",
+            "hash": "T19C287A42DA72615FC2F78B3C9E9EB0FC089680CB1308F4B99E89952256551DC8BECDF5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1a/ied1a-network-captures/veth3614724-1.pcap",
+            "hash": "T106288042DA72615FC2F78B3C9E9EB0FC089680CB530CF4B99E89952256551DC8BEC9F1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1a/ied1a-network-captures/veth3614724-2.pcap",
+            "hash": "T16B289D42DA72615FC2F78B3C9E9EB0FC089680CB130CF5B99E89952256554DC8BEC9F1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1a/ied1a-network-captures/veth3614724-3.pcap",
+            "hash": "T1EB288142DA72615FC2F78B3C9E9EB0FC189680CB131CB4B99E89952256550DC8BECDF1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1a/ied1a-network-captures/veth3614724-4.pcap",
+            "hash": "T13B289142DA72615FC2F78B3C9E9EB0FC049680CB131CF4B99E89952266551DC8BEC9F1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1a/ied1a-network-captures/veth3614724-5.pcap",
+            "hash": "T1CD979D42DA72615FD2F79B3C9E9EB0FC089680CB130CF4B99E89952256550DC8BEC9F1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1b/ied1b-network-captures/vethc76bd3f-0.pcap",
+            "hash": "T15A285B42DB32206FC8F74B7CDEDEB2FC149280C74208F7BD9E895621665919849EC9F6"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1b/ied1b-network-captures/vethc76bd3f-1.pcap",
+            "hash": "T19C286C42DB32206FC8F75B7CDECEB2FC149280C74208F7BD9E895621665919849EC9F6"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1b/ied1b-network-captures/vethc76bd3f-2.pcap",
+            "hash": "T150285B42DB32206FC8F74B7CDEDEB2FC149280C74308F7BD9E895621665859849EC9E6"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1b/ied1b-network-captures/vethc76bd3f-3.pcap",
+            "hash": "T182285B42DB32206FC8F74B7CDEDEB2FC149280C74208F7BD9E895621665859849EC9F6"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1b/ied1b-network-captures/vethc76bd3f-4.pcap",
+            "hash": "T148285942DB32206FC8F74B7CDEDEB2FC149280C74208F7BD9E895621665859849EC9F6"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied1b/ied1b-network-captures/vethc76bd3f-5.pcap",
+            "hash": "T14D174942DB7220AFC8F74B7CDECEB2FC14D280C74208F7BD9E895221565859849ED9E6"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied4c/ied4c-network-captures/vethe685ac9-0.pcap",
+            "hash": "T1842877139A62201FD2F74B3C9EEFB0FC04D180C72208B6B95E9D562177A5ADA4DEC9D4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied4c/ied4c-network-captures/vethe685ac9-1.pcap",
+            "hash": "T19C2868139A72202FD1F74B3C9EEFB0FC04E180C72608B5B95E9D562177A5ADA49EC9D0"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied4c/ied4c-network-captures/vethe685ac9-2.pcap",
+            "hash": "T1622886139A72201FD1F74B3C9EEFB0FC04D180C72608B6B95EAD562177A1ADA49EC9D1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied4c/ied4c-network-captures/vethe685ac9-3.pcap",
+            "hash": "T1482858139A72201FD2F74B3C9EEFB0FC04D180C72608B6B95E9D562177A5ADA49EC9D0"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied4c/ied4c-network-captures/vethe685ac9-4.pcap",
+            "hash": "T1312877139A62201FD1FB4B3C9EEFB0FC04D180C72608B6B95F9D562177A5ADA49EC9D0"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/ied4c/ied4c-network-captures/vethe685ac9-5.pcap",
+            "hash": "T1509776139A62201FD1F74B3C9EEFB0FC04E190C72208F6B95E9D562167A5ADA4DEC9D0"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-0.pcap",
+            "hash": "T10B28EE439B22501FC5FB4B7C9EDEB1FC44A285CB0208F6BE5F89592626640D84BDDAF4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-1.pcap",
+            "hash": "T1C228CD439B22601FC5F78B7C9EDEB1FD44A2C1CB1208F6BE5E89552226640D84BDDAF4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-10.pcap",
+            "hash": "T1EA28CD439B21601FC5FB4B7C9EDFB1FC44A281CB0208F6BE5F89552266644D84EEDAE4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-11.pcap",
+            "hash": "T1D128DF439B22201FC5FB4B7C9EDEB1FC44A2C1CB0208F6BE5E99552227644D84BDDAE5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-12.pcap",
+            "hash": "T1BA28CD439B32601FC5F74B7C9EDEB1FC44A680CB1208F6BD5E89552227A44D84AEDAF4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-13.pcap",
+            "hash": "T1EE28CC439B32601FC5FB4B7CDEDEB1FC04A681CB1208F6BD5E89552226640D84AEDAF5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-14.pcap",
+            "hash": "T11A28EE439B22502FC5F74B7C9EEEB1FC44A281CB0208F6BD5FC9592626640D94BDDAE4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-15.pcap",
+            "hash": "T1BC28DD439B22201FC5FB4B7C9EDEB1FD04A280CB1218F6BD5FC9592226641D94BDDAE4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-16.pcap",
+            "hash": "T1C528DD439B21201FC5FB4B7C9EEEB1FC44A281C71308F6BE5F89592226640D94BDDAE5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-17.pcap",
+            "hash": "T17928CC439B22201FC5FB4B7CDEDEB1FC04A280CB1208F6BD5EC9552266645D84AEDAF5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-18.pcap",
+            "hash": "T1EE28DD43DB22201FC5F74B7C9EDEB1FC44A281CB1208F6BE5E89552227641D84AEDAF5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-19.pcap",
+            "hash": "T11C28CD439B22201FC5F74B7C9EDEB1FC44A281CB1208F6BE5F89552227645D84EEDAE4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-2.pcap",
+            "hash": "T10D28DE439B22601FC5F78B7C9EDEB1FC44A281CB1208F6BD5F89552227640D94AEDAF4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-3.pcap",
+            "hash": "T1C228DE439B32101FC5FB4B7C9EDEB1FC44A681CB1208F6BE5F89556227640D84AEDAE4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-4.pcap",
+            "hash": "T13D28CC43DB32201FC5F74B7C9EDEB1FC04A285CB1208F6BE5EC9556226640D84AEDAE5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-5.pcap",
+            "hash": "T19F28CD439B21602FC5FB4B7CDEDEB1FD44A281CB1208F6BD5F89552226640D84BEDAE4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-6.pcap",
+            "hash": "T13228DD439B21502FC5FB4B7C9EDEB1FD44A2C1CB0208F6BE5E89556227640D84BEDAE4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-7.pcap",
+            "hash": "T17A28CD439B22602FC5F74B7CDEDEB1FD44A280CB1308F6BD5E89552226640D84BEDAE5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-8.pcap",
+            "hash": "T17928ED439B21101FC5F74B7C9EEEB1FD04A280CB1308F6BE5E89592627640D94BEDAE5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-ied/trust-scada-hmi/trust-scada-network-captures/veth3efd353-9.pcap",
+            "hash": "T15C28EF439B22501FC5FB4B7C9EEEB1FC44A285CA0308F6BE5F89552227640D84BDDAE5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/central-agent/central-agent-network-captures/vethffb308b-0.pcap",
+            "hash": "T1D52891875A04C11DC89BCFBED9BED3FE84659DD54555A26B3B890C4A12F40E02B8F3E8"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/central-agent/central-agent-network-captures/vethffb308b-1.pcap",
+            "hash": "T11B6783875A04C11DC85BCFBED9BE93FE84619DD54569A26B3B8D1C4A12E40E01F8F3E8"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1a/ied1a-network-captures/veth3614724-0.pcap",
+            "hash": "T149288A62EB816D57C5C3EBFCAE9EB0FC089781C35309B6BA6E096A3056505DC49CC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1a/ied1a-network-captures/veth3614724-1.pcap",
+            "hash": "T1BD28BD62EB816D57C5C3EBFCAE9EB0FC089781C35309B6BA6E056A3056604DC49DC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1a/ied1a-network-captures/veth3614724-2.pcap",
+            "hash": "T1D428BB62EB816D57C5C3EBFCAE8EB0FC089781C3930AB6BA5E056A3016545CC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1a/ied1a-network-captures/veth3614724-3.pcap",
+            "hash": "T10128CB62EB816D57C5C3EBFCAE8EB0FC089781C39309B6BA9E056A3016505DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1a/ied1a-network-captures/veth3614724-4.pcap",
+            "hash": "T14528AA62EB816D57C5C3EBFCAE8EB0FC089781C39309B6BA9E056A3056505CC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1a/ied1a-network-captures/veth3614724-5.pcap",
+            "hash": "T171A7C062EB816D57C5C3EBFCAE9EB0FC089781C35309B6BA5E096A3016604DC49CD6F5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-0.pcap",
+            "hash": "T13D2867229A412D67ECC7ABFCDE5EB2FC0C9781C2425CFABD5E0949205A5C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-1.pcap",
+            "hash": "T149286A229A412D67ECCBABFCDE5EB2FC0C9781C2425CFABD5E094920565C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-2.pcap",
+            "hash": "T18E286A229A412D67DCCBABFCDE4EB2FC0C9781C2425CFABD5E095920665C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-3.pcap",
+            "hash": "T115285722DA412D67ECCBABFCDE4EB2FC089781C2425CF6BD5E095920566C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-4.pcap",
+            "hash": "T1FB2868229A412D67DCCBABFCDE5EB2FC0C9781C2425CFABD5E0959205A1C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-5.pcap",
+            "hash": "T1B12869229A412D67ECCBABFCDE4EB2FC0C9781C2525CFABD5E094920565C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-6.pcap",
+            "hash": "T15F2856229A412D67DCDBABFCDE4EB2FC089781C3425CFABD5E0949205A5C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied1b/ied1b-network-captures/vethc76bd3f-7.pcap",
+            "hash": "T1D2D658229A412D67EDC7ABFCDE4EB2FC099781C2425CF6BD9E0D4910562C9C81DDCAE1"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied4c/ied4c-network-captures/vethe685ac9-0.pcap",
+            "hash": "T1A128B9239A812D57C6E7ABFCAE9EF0FC08D781C3420CB5B91E5C4A1067E56D40ADE6D4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied4c/ied4c-network-captures/vethe685ac9-1.pcap",
+            "hash": "T16128BA239A812D57C5E7ABFCAE9EF0FC08D781C7420CB6BA1E5D0A1067E46D409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied4c/ied4c-network-captures/vethe685ac9-2.pcap",
+            "hash": "T1412887239A812D57C6E7ABFCAE9EF0FC08D781C3420CB5B91E5D4A1073A5AD409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied4c/ied4c-network-captures/vethe685ac9-3.pcap",
+            "hash": "T145289A239A812D97C6E7ABFCAE9EF0FC08D781C3420CB5B95E1D0A1077A56D409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied4c/ied4c-network-captures/vethe685ac9-4.pcap",
+            "hash": "T1FE2899239A822D57C5E7ABFCAE9EF0FC08D781C7424CB6B91E5C0A1077A46D409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/ied4c/ied4c-network-captures/vethe685ac9-5.pcap",
+            "hash": "T18F7799139A812D57C5EBABFCAE9FB1FC08D681C3421CB5BA2E5C4A1073E45D40ADE6D4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-0.pcap",
+            "hash": "T1B1289C229A812D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066599C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-1.pcap",
+            "hash": "T164289C62DA812D67D9C7ABFCAE4EB1FC0C9781C3420DF6BD5E09592066689C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-10.pcap",
+            "hash": "T18A288A229A812D67D9D7ABFCAE8EB1FC0C9781C3430CF6BD5E09552066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-11.pcap",
+            "hash": "T1E92899229A412D67D9D7ABFCAE8EB1FC0C9781C3430CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-12.pcap",
+            "hash": "T15C2878229A412D67D9D7ABFCAE8EB1FC0CD781C3520CF6BD5E08592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-13.pcap",
+            "hash": "T15D288A22DA412D67D9D7ABFCAE8EB1FC0C9781C3424CF6BD5E09592066689C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-14.pcap",
+            "hash": "T1D5289B229A412D67D9D7ABFCAE8EB1FC0C9781C3434CF6BD5E09592066689C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-15.pcap",
+            "hash": "T139289C22DA812D67D9D7ABFCAE8EB1FC0C9781C3424CF6BD5E09592066685C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-16.pcap",
+            "hash": "T1CAE769229A412D67D9D7ABFCAE8FB1FC0CD781C3420CF6BD5E09592066689C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-2.pcap",
+            "hash": "T18D288B229A812D67D9D7ABFCAE4EB1FC0C9781C3530CF6BD5E09592066689C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-3.pcap",
+            "hash": "T1212879229A412D67D9D7ABFCAE8EB1FC0CD781C3431CF6BD5E09592066689C80DDC6E4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-4.pcap",
+            "hash": "T1BE28AB229A412D67C9D7ABFCAE8EB1FC0C9781C3434CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-5.pcap",
+            "hash": "T157288A229A412D67D9D7ABFCAE4EB1FC0CD781C3420CF6BD5E0A592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-6.pcap",
+            "hash": "T191287B22DA412D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-7.pcap",
+            "hash": "T17F288B22DA412D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066689C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-8.pcap",
+            "hash": "T181288B22DA412D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066689C80DDC6F5"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/scada-hmi/scada-hmi-network-capture/veth291ab9a-9.pcap",
+            "hash": "T1BC288922DA812D67D9D7ABFCAE5EB1FC0C9781C3420CF6BD5E09592066689C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-0.pcap",
+            "hash": "T1E292FE4BEB40902BC5EF4B7EAF6EF1FE188294D21658B4BA7F48495523A05F509CD3E0"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-1.pcap",
+            "hash": "T17528BC629A412D67D9C7ABFCEE8EB1FC0C9781C3420DF6BD5E09592066689C80DCD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-10.pcap",
+            "hash": "T1FF28BA62DA812D67D9D7ABFCEE9EB1FC089781C3420CF6BD5E08192066685C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-11.pcap",
+            "hash": "T10428BB229A412D67C9D7ABFCAE9EB2FC0C9781C3430CF6BD5E09192066685D80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-12.pcap",
+            "hash": "T1652899229A412D67D9D7ABFCAE8EB1FC0C9781C3430CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-13.pcap",
+            "hash": "T1932888229A812D67D9D7ABFCAE8EB1FC0CD781C3520CF6BD5E09192066685C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-14.pcap",
+            "hash": "T19728AA22DA412D67D9D7ABFCAE8EB1FC0C9781C3424CF6BD5E09592066689C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-15.pcap",
+            "hash": "T10F28CB639A412D67C9D7ABFCAE8EB1FC0C9781C3424CF6BD5E08592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-16.pcap",
+            "hash": "T1AA28DE639A812D67C9D7ABFCAE9EB1FC0C9781C3424CF6BD5E08592066685C80DCD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-17.pcap",
+            "hash": "T18528BB22DA412D67D9D7ABFCAE9FB1FC089781C3420CF6BE5E09592066685C80DCD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-2.pcap",
+            "hash": "T13328BC629A812D67D9C7ABFCAE9EB1FC0C9781C3430CF6BD5E09192066685D80DCD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-3.pcap",
+            "hash": "T1CC289A229A412D67D8D7ABFCAE9EB1FC0CD781C3431CF6BD5E081A2066685D80DDD6E4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-4.pcap",
+            "hash": "T1F728CD229A412D67D8D7ABFCAE9EB1FC0C9781C3434CF6BD5E08192066A85D80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-5.pcap",
+            "hash": "T1F828CB229A412D67D8D7ABFCAE9EB1FC0C9781C3430CF6BE5E09192066685D80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-6.pcap",
+            "hash": "T1D428DF23DA412D67C8D7ABFCAE9EB1FC089781C3420CF6BE5E09592066685D80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-7.pcap",
+            "hash": "T11728AB22DA412D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09192066A85D80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-8.pcap",
+            "hash": "T14728AB629A412D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09192066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/compromised-scada/substation-wide-capture/substation-9.pcap",
+            "hash": "T11F28AA22DA812D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066685C80DDC6F5"
+        },
+        {
+            "file": "ModbusDataset/attack/external/central-agent/central-agent-network-capture/veth460b141-0.pcap",
+            "hash": "T13BC5CF875A04C11DC9AB8FBEDA7E93FE84719DD54659B29B3B884C4512E00E41F8F3E8"
+        },
+        {
+            "file": "ModbusDataset/attack/external/external-attacker/external-attacker-network-capture/veth665f3cf-0.pcap",
+            "hash": "T10BA7F042DAA364A7E3C3CBBDBB4EB0FC058180C7130CF5B8DE46A12066A559D4ADE5F5"
+        },
+        {
+            "file": "ModbusDataset/attack/external/ied1a/ied1a-network-capture/veth4edc015-0.pcap",
+            "hash": "T154087852DA926897E2C3DBBCBF8EB0FC0882C0C7530CF6B9DE056520666459C4ADD6F5"
+        },
+        {
+            "file": "ModbusDataset/attack/external/ied1b/ied1b-network-capture/vethd9e14c0-0.pcap",
+            "hash": "T1C36769229A412D67DDCBABFCDE4EB2FC0D9781C2425CFABD5E0949205A1C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/attack/external/ied4c/ied4c-network-capture/veth8bc3408-0.pcap",
+            "hash": "T1B7779A239A812D97D6E7ABFC9E8EF0FC08D781C3420CB5B95E5D0A1077A5AC409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/attack/external/network-wide/network-wide-normal-0.pcap",
+            "hash": "T1B8288B23DA412D67D5D7ABFCAE8EB1FC089781C3420CF6BD9E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/attack/external/network-wide/network-wide-normal-1.pcap",
+            "hash": "T12FA71452DAA36897E2C3CBBDBF8EB0FC048280C7130CF5B9DE466120666559C4ADE5F5"
+        },
+        {
+            "file": "ModbusDataset/attack/external/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-0.pcap",
+            "hash": "T17C287A229A412D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/central-agent/central-agent-network-capture/veth460b141-normal.pcap",
+            "hash": "T1C018B0879A04C11DC49B8FBED9BE93FE84619DD54565B6AB3B880D4612E40F01F8F3E8"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-10.pcap",
+            "hash": "T10C289B62EB816D57C5C3EBFCAE8EB0FC089781C39309B6BA9E056A3016505DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-11.pcap",
+            "hash": "T113479962EB816D57C5C3EBBCAE8EB0FC0C9781C79309B6BA5E056A3116109CC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-4.pcap",
+            "hash": "T189287A62EB816D57C5C3EBFCAE8EB0FC089781C39309B6BA5E056A3056109DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-5.pcap",
+            "hash": "T17E28BC62EB816D57C5C3EBFCAE8EB0FC089781C39309B6BA5E056A3016548DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-6.pcap",
+            "hash": "T171289B62EB816D57C5C3EBFCAE8EB0FC089781C39309B6BA5E056A3056508DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-7.pcap",
+            "hash": "T1CD289A62EB816D57C5C3EBFCAE8EB0FC089781C39309B6BA5E056A3016509DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-8.pcap",
+            "hash": "T152289B62EB816D57C6C3EBFCAE8EB0FC089781C39309B6BA5E056A3056504DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1a/ied1a-network-capture/veth4edc015-normal-9.pcap",
+            "hash": "T16D28AB62EB816D57C5C3EBFCAE9EB0FC089781C39309B6BA5E056A3016109DC49DC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1b/ied1b-network-capture/vethd9e14c0-normal-10.pcap",
+            "hash": "T1C5D56B629A412E27DCC7ABFCDE4EB2FC0C9781C6425CFABD5E0955205A1C9C81DDCAE1"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1b/ied1b-network-capture/vethd9e14c0-normal-4.pcap",
+            "hash": "T123284A229A412D67DCCBABFCDE4EB2FC0C9781C2425CFABD5E0955206A1C9C81DDC6E5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1b/ied1b-network-capture/vethd9e14c0-normal-5.pcap",
+            "hash": "T1EE286B229A412D67DCCBABFCDE5EB2FC0C9781C2425CFABD5E095920661C9C81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1b/ied1b-network-capture/vethd9e14c0-normal-6.pcap",
+            "hash": "T1ED288B229A412D27DCC7ABFCDE5EB2FC0C9781C2425CFABD5E0959206A1C9D81DDC6E1"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1b/ied1b-network-capture/vethd9e14c0-normal-7.pcap",
+            "hash": "T130284A229A412D67DCCBABFCDE4EB2FC0C9781C2425CFABD5E0955205A1C9C81DDCAE5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1b/ied1b-network-capture/vethd9e14c0-normal-8.pcap",
+            "hash": "T1FE2859229A412D67DCCBABFCDE4EB2FC0D9781C2425CFABD5E0955205A1C9C81DDCAE1"
+        },
+        {
+            "file": "ModbusDataset/benign/ied1b/ied1b-network-capture/vethd9e14c0-normal-9.pcap",
+            "hash": "T1572849229A412D67DCCBABFCDE4EB2FC0C9781C2425CFABD5E0955205A1C9C81DDCAE5"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-10.pcap",
+            "hash": "T185288B239A822D57C6E7ABFCAE8EB0FC0CD781C7460CB5B91D5C0A1077A5AD409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-11.pcap",
+            "hash": "T1DF2789239A822D57C6E7ABFC9E9EB0FC08D781C3420CB5B91E5D0A1077A5AD40DDE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-4.pcap",
+            "hash": "T1832878239A812D97C6E7ABFC9E9EF0FC08D781C3420CB5B91E1D4A1077A5AD409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-5.pcap",
+            "hash": "T1FD288A239A812D97C6E7ABFC9E8EB0FC0CD781C3420CB5B95E1C5A1077A5AD409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-6.pcap",
+            "hash": "T1102889239A812D97C6E7ABFC9E9EF0FC08D781C3420CB5B95E1D4A1077A5AC409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-7.pcap",
+            "hash": "T1C92878239A812D97C6E7ABFC9E9EF0FC08D781C3420CB5B95E1D0A1077A5AD409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-8.pcap",
+            "hash": "T142287A239A812DA7C6E7ABFC9E8EB0FC0CD781C3420CB5B91D5D4A1077A5AD409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/ied4c/ied4c-network-capture/veth8bc3408-normal-9.pcap",
+            "hash": "T16C288B239A812D97C5E7ABFCAE9EF0FC08D781C3420CB5B95E1D0A1077A5AD409DE6D4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-14.pcap",
+            "hash": "T1F828AD229A812D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09552066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-15.pcap",
+            "hash": "T194289C22DA412D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E095A2066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-16.pcap",
+            "hash": "T15D289C62DA412D67C9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-17.pcap",
+            "hash": "T19228AB22DA412D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-18.pcap",
+            "hash": "T1AA28AB229A812D67C9D7ABFCAE9EB1FC0CD781C3420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-19.pcap",
+            "hash": "T1DE28AC229A812D67D9D7ABFCAE9EB1FC0CD781C3420CF6BD5E09192066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-20.pcap",
+            "hash": "T1A328AC239A412D67D9D7ABFCAE9EB1FC0C9781C3420CF6BD5E09192066689D80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-21.pcap",
+            "hash": "T1A1289B22DA412D67C9D7ABFCAE8EB1FC0CD781C3820CF6BD5E09592066649C809DD6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-22.pcap",
+            "hash": "T1F6289B229A412D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-23.pcap",
+            "hash": "T1A2289D229A412D67C9D7ABFCAE8EB1FC0CD781C3421CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-24.pcap",
+            "hash": "T1A328BE639A812D67C9D7ABFC9E8EB1FC0C9781C3420CF6BD5E095A2066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-25.pcap",
+            "hash": "T1BE288C22DA412D67D5D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066689C80DDDAF4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-26.pcap",
+            "hash": "T14C28AD22DA812D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-27.pcap",
+            "hash": "T1BF28AB629A812D67C9D7ABFCAE9EB1FC0CD781C3420CF6BD5E09192066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-28.pcap",
+            "hash": "T150289C22DA812D67D9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-29.pcap",
+            "hash": "T10C287B22DA812D67D9D7BBFCAE8EB1FC0C9781C3420CF6BD5E09592066649C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-30.pcap",
+            "hash": "T125289B229A812D67D9D7EBFCAE8EB1FC0C9781C3420CF6BD5E09592067649C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-31.pcap",
+            "hash": "T13C28AD229A812D67D9D7EBFCAE8EB1FC0C9781C3420CF6BD5E09192066649D80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/network-wide-pcap-capture/network-wide/network-wide-normal-32.pcap",
+            "hash": "T136A7AC229A812D67C9D7ABFCAE8EB1FC0CD781C7420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-13.pcap",
+            "hash": "T111288C229A412D67D9D7ABFCAE8EB1FC0CD781C3430CF6BD5E09592066689C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-14.pcap",
+            "hash": "T12628AD229A812D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-15.pcap",
+            "hash": "T129288B22DA412D67D9D7ABFCAE8EB1FC08D781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-16.pcap",
+            "hash": "T1D5289C22DA412D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066689C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-17.pcap",
+            "hash": "T1E0288B22DA812D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066649C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-18.pcap",
+            "hash": "T1B028AB229A812D67C9D7ABFCEE9EB1FC0CD781C3420CF6BD5E09592066649C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-19.pcap",
+            "hash": "T17928AC229A412D67D9D7ABFCAE9EB1FC0CD781C3420CF6BD5E08192066689D80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-20.pcap",
+            "hash": "T161289B22DA812D67C9D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066659C80DDC6F5"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-21.pcap",
+            "hash": "T141289D229A812D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-22.pcap",
+            "hash": "T11F287C229A412D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-23.pcap",
+            "hash": "T12328AE229A812D67D9D7ABFC9E8EB1FC0CD781C3420CF6BD5E09592066689C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-24.pcap",
+            "hash": "T10D289C22DA412D67D5D7ABFCAE8EB1FC0C9781C3520CF6BD5E095A2066649C80DDCAF4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-25.pcap",
+            "hash": "T12A289D22DA812D67D5D7ABFCAE8EB1FC0C9781C3420CF6BD5E09592066699C80DDC6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-26.pcap",
+            "hash": "T11528AD229A812D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-27.pcap",
+            "hash": "T17C289B229A812D67D9D7ABFCAE8EB1FC0CD781C3420CF6BD5E09592066649C80DDD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-28.pcap",
+            "hash": "T107286B22DA812D67D9D7BBFCAE8EB1FC0C9781C3420CF6BD5E09592066649C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-29.pcap",
+            "hash": "T12D289B229A812D67D9D7BBFCAE8EB1FC0C9781C7420CF6BD5E09592067649C809DC6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-30.pcap",
+            "hash": "T1AC288C229A812D67D5D7EBFCAE8EB1FC0CD781C3820CF6BD5E09592066649C809DD6F4"
+        },
+        {
+            "file": "ModbusDataset/benign/scada-hmi/scada-hmi-network-capture/veth5bbeaa2-normal-31.pcap",
+            "hash": "T1CFD7AD229A812D67C9D7ABFCAE8EB1FC0CD781C7420CF6BD5E09592066649C80DDD6F4"
+        }
+    ]
+}
